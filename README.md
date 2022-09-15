@@ -1,6 +1,6 @@
-- 👋 Opa! Me chamo Guilherme!
+- 👋 Op! Me chamo Guilherme!
 - 👀 Eu estou interessado em ingressar no meu primeir eprego na área da programação!
-- 🌱 Atualmente estou cursando ADS e aprendendo mais sobre Front-End;
+- 🌱 Atualmente estou cursando ADS e aprende mais sobre Front-End;
 - 📫 Como chegar até mim: 
 
 	-Linkedin: https://www.linkedin.com/in/guilherme-lima-219500236/
