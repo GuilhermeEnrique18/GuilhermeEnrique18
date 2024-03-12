@@ -1,5 +1,5 @@
 - 👋 Opa! Me chamo Guilherme!
-- 👀 Eu estou interessado em ingressar no meu primeir eprego na área da programação!
+- 👀 Eu estou interessado em ingressar no meu primeiro emprego na área da programação!
 - 🌱 Atualmente estou cursando ADS e aprendendo mais sobre Front-End;
 - 📫 Como chegar até mim: 
 
