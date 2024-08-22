@@ -1,6 +1,6 @@
 - 👋 Opa! Me chamo Guilherme!
 - 👀 Estou interessado em ingressar no meu primeiro emprego na área da programação!
-- 🌱 Atualmente estou em treinamento no projeto Start da Accenture;
+- 🌱 Atualmente estou no 5 período de Ánalise e desenvolvimento de sistemas;
 - 📫 Como chegar até mim: 
 
 	-Linkedin: https://www.linkedin.com/in/guilherme-limaa/
