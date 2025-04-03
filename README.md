@@ -1,5 +1,5 @@
 - 👋 Opa! Me chamo Guilherme!
-- 👀 Estou interessado em ingressar no meu primeiro emprego na área da programação!
+- 👀 Aberto a propostas na área de desenvolvimento!
 - 🌱 Atualmente estou no 5◦ período de Analise e desenvolvimento de sistemas;
 - 📫 Como chegar até mim: 
 
