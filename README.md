@@ -1,7 +1,7 @@
 # 🧑🏾‍💻 Opa! Me chamo Guilherme Lima!
 **`Desenvolvedor BackEnd`**
 
-<p align="left">Sou estudante de Análise e Desenvolvimento de Sistemas na UNINASSAU, pelo programa Embarque Digital. Tenho construído minha trajetória com foco em tecnologia e inovação.
+<p align="left">Tenho 21 anos, sou estudante de Análise e Desenvolvimento de Sistemas na UNINASSAU, pelo programa Embarque Digital. Tenho construído minha trajetória com foco em tecnologia e inovação.
 Atualmente, trabalho como Jovem Aprendiz na Rio Ave, atuando no setor de processos e participando do desenvolvimento de soluções internas.
 Participei de iniciativas como o CDD 4.0, Start+, PrograMaria Sprint, onde aprofundei meu aprendizado em cibersegurança, dados, e projetos com impacto social. Também desenvolvi projetos com MongoDB, Java (Spring Boot), além de boas práticas com APIs e bancos SQL/NoSQL.
 	
